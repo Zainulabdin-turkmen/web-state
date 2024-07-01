@@ -7,3 +7,7 @@ body {
 section {
   margin: 8.5rem 2.5rem;
 }
+
+.visitors-container {
+  background-color: #7000ff;
+}
