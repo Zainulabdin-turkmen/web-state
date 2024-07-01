@@ -3,3 +3,7 @@ body {
   background-color: black;
   color: white;
 }
+
+section {
+  margin: 8.5rem 2.5rem;
+}
