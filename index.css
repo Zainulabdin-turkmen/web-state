@@ -8,9 +8,20 @@ section {
   margin: 8.5rem 2.5rem;
 }
 
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
 .visitors-container {
   background-color: #7000ff;
   padding: 2.5rem 0;
   padding-left: 2rem;
   border-radius: 0.7rem;
+}
+
+h1 {
+  font-size: 55px;
 }
