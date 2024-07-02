@@ -53,6 +53,7 @@ h1 {
 .page,
 .unique {
   display: flex;
+  gap: 0.7rem;
 }
 
 h2 {
