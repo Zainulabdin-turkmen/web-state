@@ -40,6 +40,7 @@ h1 {
   padding-bottom: 4.5rem;
   display: flex;
   gap: 2.2rem;
+  flex-direction: column;
 }
 
 .page,
