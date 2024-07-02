@@ -38,6 +38,8 @@ h1 {
   padding-top: 4.5rem;
   padding-left: 3.8rem;
   padding-bottom: 4.5rem;
+  display: flex;
+  /* gap: 2.2rem; */
 }
 
 .page,
