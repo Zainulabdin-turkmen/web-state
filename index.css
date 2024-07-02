@@ -54,3 +54,7 @@ h1 {
 .unique {
   display: flex;
 }
+
+h2 {
+  font-size: 2rem;
+}
