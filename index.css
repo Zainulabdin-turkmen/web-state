@@ -15,6 +15,12 @@ p {
   margin: 0;
 }
 
+.visitors-page-container {
+  display: flex;
+  gap: 1.8rem;
+  flex-direction: column;
+}
+
 .visitors-container {
   background-color: #7000ff;
   padding-left: 2rem;
@@ -39,8 +45,9 @@ h1 {
   padding-left: 3.8rem;
   padding-bottom: 4.5rem;
   display: flex;
-  gap: 2.2rem;
-  flex-direction: column;
+  /* gap: 2.2rem; */
+  /* flex-direction: column; */
+  /* border-radius: 0.6rem ; */
 }
 
 .page,
