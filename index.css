@@ -46,7 +46,7 @@ h1 {
   padding-bottom: 4.5rem;
   display: flex;
   gap: 2.2rem;
-  /* flex-direction: column; */
+  flex-direction: column;
   border-radius: 0.6rem;
 }
 
