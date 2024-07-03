@@ -65,6 +65,7 @@ h2 {
 }
 
 button {
+  width: 100%;
   text-decoration: none;
   color: white;
   background-color: #7000ff;
