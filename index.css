@@ -84,5 +84,5 @@ button {
   margin: 0 auto;
   margin-top: 1.3rem;
   padding: 0.5rem;
-  /* box-sizing: border-box; */
+  box-sizing: border-box;
 }
