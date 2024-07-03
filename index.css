@@ -97,6 +97,6 @@ button {
   }
   .page-unique-container {
     width: 70%;
-    /* flex-direction: row; */
+    flex-direction: row;
   }
 }
