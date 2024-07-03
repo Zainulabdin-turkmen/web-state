@@ -64,8 +64,10 @@ h2 {
   font-size: 1.1rem;
 }
 
-a {
+button {
   text-decoration: none;
   color: white;
-  background-color: #7000ff;
+  /* background-color: #7000ff; */
+  /* padding: 0.9rem 2.1rem; */
+  /* margin-top: 1.8rem; */
 }
