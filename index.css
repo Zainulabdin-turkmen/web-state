@@ -110,7 +110,7 @@ button {
     margin: 0 auto;
     max-width: 1100px;
     margin-top: 8.5rem;
-    /* gap: 1.5rem; */
+    gap: 1.5rem;
     /* align-items: start; */
   }
   /* button {
